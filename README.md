@@ -1,3 +1,3 @@
 # RAG
 
-#### Ingestion > Retireval > Augmentation (combining context and question into prompt) > Generation
+#### Ingestion > Retireval > Augmentation (combining context and question into prompt) > Generation                                                                                                                                                                                                             

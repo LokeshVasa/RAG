@@ -5,7 +5,7 @@ def retrive_context(query):
     # Initialize a Pinecone client with your API key
     pc = Pinecone(api_key=api_key)
 
-    index_name = "cyber-manual"
+    index_name = "NPTEL"
     dense_index = pc.Index(index_name)
 
     # Define the query
